@@ -1,0 +1,10 @@
+package staticblock;
+
+public class UseStudent {
+	public static void main(String[] args) {
+		//Student.college="xyz";
+		Student s1=new Student();
+		
+	}
+
+}

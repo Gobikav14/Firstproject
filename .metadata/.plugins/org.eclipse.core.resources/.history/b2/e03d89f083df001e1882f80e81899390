@@ -1,0 +1,13 @@
+package Overriding;
+
+public class Bank {
+	public int findinterest (int amount) {
+		return amount*8/100;
+	}
+	public class axis extends Bank {
+		public int findInterest(int amount) {
+			return amount*10/100;
+		}
+	}
+
+}

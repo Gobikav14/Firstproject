@@ -1,0 +1,10 @@
+package Task;
+
+public class UseMaxNumber {
+	public static void main(String[] args) {
+		Maximumnumber m = new Maximumnumber();
+		
+		System.out.println();
+	}
+
+}

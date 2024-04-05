@@ -1,0 +1,10 @@
+package Functioninterfaceusingthelamda;
+
+public class UseDemo {
+	
+	public static void main(String[] args) {
+		Demo d1=(x,y)->(x+y);
+		d1.find(24, 6);
+	}
+
+}

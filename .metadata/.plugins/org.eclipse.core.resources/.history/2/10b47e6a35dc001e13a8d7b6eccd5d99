@@ -1,0 +1,13 @@
+package Composition;
+
+public interface Object2 {
+	public class car {
+		String brand;
+		int price;
+		String colour;
+		boolean ispetrol;
+		Engine engine;
+		
+	}
+
+}

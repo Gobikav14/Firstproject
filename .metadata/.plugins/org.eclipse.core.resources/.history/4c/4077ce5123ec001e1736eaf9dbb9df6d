@@ -1,0 +1,6 @@
+package Functioninterfaceusingthelamda;
+
+public interface Demo {
+	public void find(int a,int b);
+
+}

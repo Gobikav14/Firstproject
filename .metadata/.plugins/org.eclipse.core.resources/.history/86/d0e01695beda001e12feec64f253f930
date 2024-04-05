@@ -1,0 +1,11 @@
+package Task;
+
+public class UseMaximumnumber {
+	public static void main(String[] args) {
+		int [] nums= {26,300,999,1000};
+		Maximumnumber b=new Maximumnumber();
+		b.demo(nums);
+	}
+
+}
+ 

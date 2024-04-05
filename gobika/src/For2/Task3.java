@@ -1,0 +1,17 @@
+package For2;
+
+public class Task3 {
+	public static void main(String[] args) {
+		//Datatype[] variable=new datatype[size]
+				char[]a=new char[5];
+				a[0]='a';
+				a[1]='b';
+				a[2]='c';
+				a[3]='d';
+			
+		  for(int i=0;i<=a.length-1;i++) {
+			  System.out.println(a[i]);
+		  }
+	}
+
+}

@@ -1,0 +1,13 @@
+package For2;
+
+public class Stringvowels {
+	public static void main(String[] args) {
+		String [] a= {"sky","apple","try","bottle","lion"};
+		for(int i=0;i<=a.length-1;i++) {
+			if(a[i].contains("a")||a[i].contains("e")||a[i].contains("i")||a[i].contains("o")||a[i].contains("u")) {
+				System.out.println(a[i]);
+			}
+		}
+		
+	}
+}

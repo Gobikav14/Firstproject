@@ -1,0 +1,14 @@
+package conditions;
+
+public class String {
+public static void main(Odd_even_string[]args) {
+	Odd_even_string a="Apple";
+	int b=a.length();
+	if(b%2==0) {
+		System.out.println("even string");
+	}
+	else {
+		System.out.println("odd string");
+	}
+}
+}
