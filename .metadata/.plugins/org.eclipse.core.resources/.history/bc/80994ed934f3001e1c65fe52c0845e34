@@ -23,6 +23,5 @@ public class Computerstudent extends Student{
 	public String toString() {
 		return super.toString() + ", Noofstudent=" + noofstudent;
 	}
-	
 
 }
